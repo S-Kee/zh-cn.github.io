@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "唐健"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/chf.jpeg"     #"images/android-chrome-512x512.png"
   bio              : "华中科技大学"
   location         : "湖北 武汉"
   employer         : #"Hefei General Machinery Research Institute"
